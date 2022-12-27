@@ -1,0 +1,12 @@
+html{ background-color:rgba(251, 251, 251, 0.889); }
+
+img{ width:350px; margin-bottom:10%;}
+.hero-body{ width:100%;text-align: center;}
+.login{ width:30%; margin: auto;}
+/*index.php의 비밀번호 찾기 및 회원가입하기*/
+a{ color:#484848; }
+a:hover{ color:#1a1919; }
+
+/* login 버튼 클릭*/
+.button.is-primary{ background-color:#1a1919 ; }
+.button.is-primary:hover{ background-color:#484848 ; }
